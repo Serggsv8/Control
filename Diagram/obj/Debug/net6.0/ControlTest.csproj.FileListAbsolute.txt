@@ -1,0 +1,15 @@
+C:\Users\MG\Desktop\ControlTest\bin\Debug\net6.0\ControlTest.exe
+C:\Users\MG\Desktop\ControlTest\bin\Debug\net6.0\ControlTest.deps.json
+C:\Users\MG\Desktop\ControlTest\bin\Debug\net6.0\ControlTest.runtimeconfig.json
+C:\Users\MG\Desktop\ControlTest\bin\Debug\net6.0\ControlTest.dll
+C:\Users\MG\Desktop\ControlTest\bin\Debug\net6.0\ControlTest.pdb
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.csproj.AssemblyReference.cache
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.AssemblyInfoInputs.cache
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.AssemblyInfo.cs
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.csproj.CoreCompileInputs.cache
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.dll
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\refint\ControlTest.dll
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.pdb
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ControlTest.genruntimeconfig.cache
+C:\Users\MG\Desktop\ControlTest\obj\Debug\net6.0\ref\ControlTest.dll
